@@ -19,7 +19,7 @@ Associated course presentation slides can be found at [PythonMastery.pdf](../Pyt
 ## 1. Python Review
 
 - [Exercise 1.1](ex1_1/ex1_1.md)
-- [Exercise 1.2](ex1_2.md)
+- [Exercise 1.2](ex1_2/ex1_2.md)
 - [Exercise 1.3](ex1_3.md)
 - [Exercise 1.4](ex1_4.md)
 - [Exercise 1.5](ex1_5.md)
