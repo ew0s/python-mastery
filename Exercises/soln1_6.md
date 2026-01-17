@@ -27,4 +27,4 @@ if __name__ == '__main__':
 ```
 
 
-[Back](ex1_6.md)
+[Back](ex1_6/ex1_6.md)
