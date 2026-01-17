@@ -28,7 +28,7 @@ Associated course presentation slides can be found at [PythonMastery.pdf](../Pyt
 ## 2. Data Handling
 
 - [Exercise 2.1](ex2_1/ex2_1.md)
-- [Exercise 2.2](ex2_2.md)
+- [Exercise 2.2](ex2_2/ex2_2.md)
 - [Exercise 2.3](ex2_3.md)
 - [Exercise 2.4](ex2_4.md)
 - [Exercise 2.5](ex2_5.md)
